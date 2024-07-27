@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Authentication-and-authorization/static/css/main.1b0b5d36.css",
+    "main.js": "/Authentication-and-authorization/static/js/main.1112dc90.js",
+    "static/js/453.32067516.chunk.js": "/Authentication-and-authorization/static/js/453.32067516.chunk.js",
+    "static/media/logo.svg": "/Authentication-and-authorization/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Authentication-and-authorization/index.html",
+    "main.1b0b5d36.css.map": "/Authentication-and-authorization/static/css/main.1b0b5d36.css.map",
+    "main.1112dc90.js.map": "/Authentication-and-authorization/static/js/main.1112dc90.js.map",
+    "453.32067516.chunk.js.map": "/Authentication-and-authorization/static/js/453.32067516.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b0b5d36.css",
+    "static/js/main.1112dc90.js"
+  ]
+}
